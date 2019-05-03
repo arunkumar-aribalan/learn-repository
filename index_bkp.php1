@@ -1,0 +1,2324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Wide Angle Creations</title>
+
+<!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="css/five.css" rel="stylesheet">
+
+<link href="css/custom.css" rel="stylesheet">
+
+<!--Corosel slider CSS  -->
+<link href="css/owl.carousel.css" rel="stylesheet">
+<link href="css/owl.theme.css" rel="stylesheet">
+
+<!-- Custom Fonts -->
+<link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,600,600italic' rel='stylesheet' type='text/css'>
+
+
+
+ 
+<!-- popup window -->
+<!--<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
+  
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" class="index">
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+    </div>
+    <span class="navbar-header page-scroll"><a class="navbar-brand page-scroll comp-name" href="#page-top">Wide Angle Creations</a></span> 
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right nav-color">
+        <li class="hidden"> <a href="#page-top"></a> </li>
+        <li> <a class="page-scroll cap-remove" href="#services">Services</a> </li>
+        <li> <a class="page-scroll cap-remove" href="#portfolio">Projects</a> </li>
+        <li> <a class="page-scroll cap-remove" href="#about">About</a> </li>
+        <li> <a class="page-scroll cap-remove" href="#team">Team</a> </li>
+        <li> <a class="page-scroll cap-remove" href="#contact">Contact</a> </li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+
+<!-- Header -->
+<!--<header style="background-image:url(img/wide-angle-new-logo.png) !important;">
+  <div class="container">
+    <div class="intro-text">
+      <div  style="text-shadow:none !important;" class="intro-lead-in"></div>
+      <div  style="text-shadow:none !important;" class="intro-heading"></div>
+      <br><br>
+      <a href="#services" style="box-shadow:none !important;margin-left:-15px !important;" class="page-scroll btn btn-xl"><i class="fa fa-angle-double-down fa-4x"></i></a> </div>
+  </div>
+</header>-->
+
+<!-- Home page slider starts -->
+<div id="main-slide" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#main-slide" data-slide-to="0" class="active"></li>
+    <li data-target="#main-slide" data-slide-to="1"></li>
+    <li data-target="#main-slide" data-slide-to="2"></li>
+    <li data-target="#main-slide" data-slide-to="3"></li>    
+  </ol>
+  <div class="carousel-inner">
+    <div class="item active"> <img class="img-responsive" src="img/slider/wideanlge-logo-1920x670.png" alt="slider">
+      <!--<div class="slider-content">
+        <div class="col-md-12 text-center">
+          <h2>Welcome to <span class="logo">Fabrica</span></h2>
+          <h3>Your Creative Business Partner</h3>
+          <p><a href="about.html" class="slider btn">Read More</a> </p>
+        </div>
+      </div>-->
+    </div>
+    <!--<div class="item"> <img class="img-responsive" src="img/slider/pabanasam-1920x670.jpg" alt="slider">-->
+<!--      <div class="slider-content">
+        <div class="col-md-12 text-center">
+          <h2><strong>Responsive</strong> Design</h2>
+          <h3>Responsive, Easy to Customize and Ready for Your Business</h3>
+          <p><a href="portfolio.html" class="slider btn">View Portfolio</a> </p>
+        </div>
+      </div>-->
+<!--     </div> -->
+    <!--<div class="item"> <img class="img-responsive" src="img/slider/drushyam-1920x670.jpg" alt="slider">-->
+<!--      <div class="slider-content">
+        <div class="col-md-12 text-center">
+          <h2><strong>Easy</strong> to Customize</h2>
+          <h3>Responsive, Easy to Customize and Ready for Your Business</h3>
+          <p><a href="portfolio.html" class="slider btn">View Portfolio</a> </p>
+        </div>
+      </div>-->
+<!--    </div>-->
+    
+        <div class="item"> <img class="img-responsive" src="img/slider/thoongavanam-1920x670.png" alt="slider">
+      <div class="slider-content">
+        <div class="col-md-12 text-center">
+          <h3 style="position:relative;top:192px;">In the works</h3>
+        </div>
+      </div>
+    </div>
+            <div class="item"> <img class="img-responsive" src="img/slider/Cheekati-poster-1920x670.jpg" alt="slider">
+      <div class="slider-content">
+        <div class="col-md-12">
+	<h3 style="position:relative;top:192px;;">In the works</h3>
+	</div>
+      </div>
+    </div>
+
+       <div class="item"> <img class="img-responsive" src="img/slider/cannes-filmfare-1920x670.png" alt="slider">
+      <div class="slider-content">
+        <div class="col-md-12 text-center">
+          <h3 style="position:relative;top:155px;">Suresh Balaje and George Pius<br/> with Director Jacques Audiard at Cannes</h3>
+        </div>
+      </div>
+    </div>    
+    
+  </div>
+  <a class="left carousel-control" href="#main-slide" data-slide="prev"> <span><i class="fa fa-angle-left"></i></span> </a> <a class="right carousel-control" href="#main-slide" data-slide="next"> <span><i class="fa fa-angle-right"></i></span> </a> 
+</div>
+<!--home page slider ends  -->
+
+<!-- Services Section -->
+<section id="services">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading cap-remove">Services</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row text-center services">
+      <div class="col-md-6 grow"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-film fa-stack-1x services-icon"></i> </span>
+        <h4 class="service-heading">Executive/Line Production</h4>
+        <p class="text-muted">We take up production of feature films, documentaries and tv commercials. we are involved right from the scripting stage up until the censor of the project.</p>
+      </div>
+      <div class="col-md-6 grow"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-video-camera fa-stack-1x services-icon"></i> </span>
+        <h4 class="service-heading">Equipment Hire</h4>
+        <p class="text-muted">We coordinate the hiring of required equipment and also have our own rental unit in the name of "sujatha international".</p>
+      </div>
+      <!--<div class="col-md-4 grow"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-desktop fa-stack-1x services-icon"></i> </span>
+        <h4 class="service-heading">Documentry</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+      </div>
+      <div class="col-md-4 grow"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-fighter-jet fa-stack-1x services-icon"></i> </span>
+        <h4 class="service-heading">Line Production</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+      </div>
+      
+       <div class="col-md-4 grow"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-globe fa-stack-1x services-icon"></i> </span>
+        <h4 class="service-heading">Marketing</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+      </div>
+      
+       <div class="col-md-4 grow"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-cogs fa-stack-1x services-icon"></i> </span>
+        <h4 class="service-heading">Facilitate Equipment</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+      </div>-->
+      
+    </div>
+  </div>
+</section>
+
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading cap-remove">Projects</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row">
+
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal16" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/thoongavanam.jpg" class="img-responsive" alt=""></a>
+                <img src="img/cornerlbl.png" class="corner-lbl"/>
+        <span class="corner-txt">In the works</span>
+        <div class="portfolio-caption">
+          <h4>Thoongavanam</h4>
+          <p class="text-muted">Language: Tamil</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal18" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/thoongavanam-telugu.jpg" class="img-responsive" alt=""></a>
+        <img src="img/cornerlbl.png" class="corner-lbl"/>
+        <span class="corner-txt">In the works</span>
+        <div class="portfolio-caption">
+          <h4>Thoongavanam</h4>
+          <p class="text-muted">Language: Telugu</p>
+        </div>
+      </div>
+      
+      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal14" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/papanasam-movie-poster_141957088500.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Papanasam</h4>
+          <p class="text-muted">Language: Tamil</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal17" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/dheepan1.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Dheepan</h4>
+          <p class="text-muted">Language: Tamil | French | English</p>
+        </div>
+      </div>    
+      
+      
+       <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/drishyam1.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Drushyam</h4>
+          <p class="text-muted">Language: Telugu</p>
+        </div>
+      </div>      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/malini-palayamkottai.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Malini Palayamkottai</h4>
+          <p class="text-muted">Language: Tamil</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/malini_vijayawada.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Malini 22</h4>
+          <p class="text-muted">Language: Telugu</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 portfolio-item project-space" > <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/billa.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Billa II</h4>
+          <p class="text-muted" >Language: Tamil</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/180project.jpg"  class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>180</h4>
+          <p class="text-muted">Language: Tamil and Telugu</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/maduraisambavam.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Madurai Sambavam</h4>
+          <p class="text-muted">Language: Tamil</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/yarvarumnalam.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Yavarum Nalam</h4>
+          <p class="text-muted">Language: Tamil</p>
+        </div>
+      </div>
+      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/kireedam1.jpg"  width="360" height="260.094" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Kireedam</h4>
+          <p class="text-muted">Language: Tamil</p>
+        </div>
+      </div>
+      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/ChupChupKe798.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Chup Chup Ke</h4>
+          <p class="text-muted">Language: Hindi</p>
+        </div>
+      </div>
+      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/malamaal-weekly.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Malamaal Weekly</h4>
+          <p class="text-muted">Language: Hindi</p>
+        </div>
+      </div>
+      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal10" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/PhirMilenge.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Phir Milenga</h4>
+          <p class="text-muted">Language: Hindi</p>
+        </div>
+      </div>
+      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal11" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/Mitr.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Mitr, My Friend</h4>
+          <p class="text-muted">Language: English</p>
+        </div>
+      </div>
+      
+      <div class="col-md-4 col-sm-6 portfolio-item project-space"> <a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
+        </div>
+        <img src="img/projects/vanaprasatham.jpg" class="img-responsive" alt=""> </a>
+        <div class="portfolio-caption">
+          <h4>Vanaprastham</h4>
+          <p class="text-muted">Language: Malayalam</p>
+        </div>
+      </div>
+      
+      
+      
+    </div>
+  </div>
+</section>
+
+
+
+<!-- About Section -->
+<section id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading cap-remove">About</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 abouts">
+        <h4 class="about-heading">Who we are</h4>
+        <img class="img-responsive" src="img/projects/camera-unit-white.png" alt="production unit">
+        <p class="text-muted">Wide angle Creations is a partnership firm formed with the idea to produce/ execute feature films and allied businesses in the year 2006.</p>
+        	<p>He management of Wide Angle Creations rests with Suresh Balaje and George Pius. Both partners have varied experience in the business of film production, advertisement films and TV serials.</p>
+        	<p>Wide angle has developed a very good team of professionals to take up at short notice projects that are economically and commercially viable, with total transparency in day to day operations. The team has a hands on approach to production activities and is known for excellent reporting systems and co-ordination.</p>
+        	<div  class="highlights"><blockquote><p>
+		  We do Executive/Line Production which involves Executing of contracts with cast and crew, Budget, Pre-production, Film shooting, Post-production, Censor of the project where required. We offer Line Production services in India and neighbouring countries for foreign production companies. Also do marketing where its required.
+        	</p></blockquote></div>	
+      </div>
+      <div class="col-md-4 abouts">
+        <h4 class="about-heading">Suresh Balaje</h4>
+        <!-- 
+        	<h4>2006</h4>
+        <p class="text-muted">Wide angle Creations is a partnership firm formed with the idea to produce/ execute feature films and allied businesses in the year 2006.</p>
+        <h4>March 2012</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        <h4>December 2014</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+  		      -->
+  		      <p class="text-muted">Born into a family with a Film background, son of Actor / Producer, K. Balaje, started off as a Production Executive in the family owned Production House and subsequently produced 12 feature films in Tamil, Malayalam & Hindi languages till date.</p>
+
+<p>Currently engaged in the production of Feature Films, Advertisement commercials and Corporate Films for various Companies including the Tata Group, Godrej Saralee, Reliance Infocom Limited etc.</p>
+
+<p>Owning a Rental House (called Sujatha International) for Cinematographic Equipment for Film shooting purposes and also a Sound Recording Studio for Post Production work in films.</p>
+
+<p>Also worked as Line Producer on the Indo-French Co-Production, "Vaanaprastham", which was presented at the Cannes Fetsival in France and winner of two National Awards.</p>
+
+<p>Worked as Line Producer for Pranavam Arts & Pranavam International for "Kaala Paani", "Mithunam" and "Harikrishnans". "Kaala Paani" is a critically acclaimed film which won 6 National Awards and 7 State Awards.</p>
+
+<p>Worked as Line Producer for the Hindi Feature Films "Phir Milenge" directed by Award winning Actress Revathi, "Malamaal Weekly" and "Chupke Chupke " both directed by Priyadarshan.</p>
+      </div>
+      <div class="col-md-4 abouts">
+        <h4 class="about-heading">George Pius Tharayil</h4>
+        <!--
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        <ul>
+          <li>Lorem ipsum dolor sit amet</li>
+          <li>Consectetur adipisicing elit</li>
+          <li>Minima maxime quam architecto quo</li>
+          <li>Lorem ipsum dolor sit amet</li>
+          <li>Consectetur adipisicing elit</li>
+          <li>Minima maxime quam architecto quo</li>
+          <li>Consectetur adipisicing elit</li>
+        </ul>
+        	 -->
+       <p class="text-muted">Born into a well known Syrian Christian family of South Kerala, George's father Mr T Pius Joseph retired as a celebrated officer of the Indian Railways and started the family owned Pimar Group of companies. George after his Masters went on to work in the aquaculture field for a couple of years before returning to the family business and is currently involved as Director of the Pimar Group, which is into Railway contracts, aquaculture and allied business.</p>
+
+
+<p>George joined Telephoto Entertainments Ltd, a public limited entertainment company, as the Chief Executive Officer in June 2002. Had been responsible for liaison with various production companies and television channels, budgeting and planning the fund flow, coordinating the various production activities, office management, dealing with various clients using dubbing and editing facilities, follow up on payments, assessment of progress of work, and oversee the day to day management of the company.</p>
+
+<p>As CEO, has handled these films as Line Producer and looked after the day-to-day matters relating to the complete production of these films. The first two mentioned above were made for Percept Picture Co and the last one for UTV Motion Pictures Ltd.</p>
+
+<p>George also worked as the Executive Producer on a feature film titled MITR-MY FRIEND. This film was shot entirely in San Francisco, USA from December 2000 to February 2001. The film was released in February 2002 both in India and USA and has won three national awards in India.</p>
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Team Section -->
+<section id="team" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading cap-remove">Team</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="team-member"> <img src="img/team/sureshbalaje.png" class="img-responsive img-circle" alt="">
+          <h4>Suresh Balaje</h4>
+<!--           <p class="text-muted">Web Designer</p> -->
+          <ul class="list-inline social-buttons">
+<!--            <li><a href="#"><i class="fa fa-twitter"></i></a> </li>-->
+            <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
+            <li><a href="https://in.linkedin.com/pub/suresh-balaje/5/988/969" target="_blank"><i class="fa fa-linkedin"></i></a> </li>
+            <li><a href="http://www.imdb.com/name/nm0049384/?ref_=ttfc_fc_cr2" target="_blank" class="imdb">IMDb</a> </li>            
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="team-member"> <img src="img/team/georgepius.jpg" class="img-responsive img-circle" alt="">
+          <h4>George Pius Tharayil</h4>
+<!--           <p class="text-muted">Graphic Designer</p> -->
+          <ul class="list-inline social-buttons">
+<!--            <li><a href="#"><i class="fa fa-twitter"></i></a> </li>-->
+            <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
+            <li><a href="https://in.linkedin.com/pub/george-pius/4/b29/a03" target="_blank"><i class="fa fa-linkedin"></i></a> </li>
+            <li><a href="http://www.imdb.com/name/nm1033105/?ref_=ttfc_fc_cr5" target="_blank" class="imdb">IMDb</a> </li>              
+          </ul>
+        </div>
+      </div>
+      <!--<div class="col-sm-3">
+        <div class="team-member"> <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+          <h4>Diana</h4>
+          <p class="text-muted">Lead Developer</p>
+          <ul class="list-inline social-buttons">
+            <li><a href="#"><i class="fa fa-twitter"></i></a> </li>
+            <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a> </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="team-member"> <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
+          <h4>Michael</h4>
+          <p class="text-muted">Web Developer</p>
+          <ul class="list-inline social-buttons">
+            <li><a href="#"><i class="fa fa-twitter"></i></a> </li>
+            <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a> </li>
+          </ul>
+        </div>
+      </div>
+    </div>-->
+<!--    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+      </div>
+</div>	-->
+  </div>
+</section>
+
+<!-- Team Section -->
+<section id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading cap-remove">Contact</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <h5><i class="fa fa-map-marker"></i> Address</h5>
+        <p>#62, Casa Major Road,
+Egmore,<br>Chennai-600 008
+India</p>
+      </div>
+      <div class="col-md-4">
+        <h5><i class="fa fa-envelope-o"></i> Email</h5>
+        <p>wideanglecreations@gmail.com</p>
+      </div>
+      <div class="col-md-4">
+        <h5><i class="fa fa-phone"></i> Phone</h5>
+        +91-44-28194997 </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        <p class="contact text-muted">You may use the form below to send us an e-mail. If you do so, please include your e-mail address, so that we can get back to you.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <form name="sentMessage" id="contactForm" novalidate action="http://formspree.io/100003@bambeeq.com" method="POST">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name *" id="name" name="name" required data-validation-required-message="Please enter your name.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" placeholder="Your Email *" id="email" name="_replyto" required data-validation-required-message="Please enter your email address.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-lg-12 text-center">
+              <div id="success"></div>
+              <button type="submit" class="btn btn-xl2">Send Message</button>
+
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8"> <span class="copyright">&copy; 2015. All Rights Reserved. Designed and maintained by, <a href="http://www.bambeeq.com" rel="nofollow">BambeeQ</a></span> </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <li><a href="#"><i class="fa fa-twitter"></i></a> </li>
+          <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
+          <li><a href="#"><i class="fa fa-linkedin"></i></a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Portfolio Modals --> 
+<!-- Use the modals below to showcase details about your portfolio projects! --> 
+
+<!-- Portfolio Modal 1 -->
+<div class=" modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" >
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+      	<div class="rl"> </div>
+        <div class="rl"> 
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2 class="title">Malini Palayamkottai</h2>
+            <div class="custom-main" >
+            <div class="custom-left modal-left ">
+            
+            <img class="img-responsive img-centered"  src="img/projects/malini-palayamkottai-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details table" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Sripriya</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Rajkumar Sethupathy</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Anu Radha</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Aashiq Abu</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Abhilash Kumar,Shyam Pushkaran</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Nithya Menen, Krish J. Sathaar, Naresh</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Aravind-Shankar</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Manoj Pillai</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Bavan Sreekumar</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Rajkumar Theatres Pvt Ltd</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Rajkumar Theatres Pvt Ltd</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>January 24, 2014</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt3161758/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>
+            </p>
+            
+
+            </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 2 -->
+<div class="modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <h2>Malini 22</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/malini_vijayawada-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Sripriya</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Rajkumar Sethupathy</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Anu Radha</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Aashiq Abu</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Abhilash Kumar,Shyam Pushkaran</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Nithya Menen, Krish J. Sathaar, Naresh</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Aravind-Shankar</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Manoj Pillai</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Bavan Sreekumar</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Rajkumar Theatres Pvt Ltd</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>January 24, 2014</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Telugu</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt3161758/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>            
+
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 16 -->
+<div class="modal fade" id="portfolioModal16" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <h2>Thoongavanam</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/thoongavanam-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		    <table class="film-details" border="0" >
+			<tr>
+			      <td>Directed by</td>
+			      <td>Rajesh M Selva</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>S. Chandrahasan</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Sugaa</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Kamal Hassan</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Kamal Hassan, Trisha, Prakash Raj, Kishore, Asha Sarath</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Ghibran</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Sanu Varughese</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Shan Mohammed</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Raaj Kamal Films International</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Maxlab Entertainments</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil, Telugu</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt5000238/?ref_=fn_al_tt_2" target="_blank">Click Here ... </a></td>
+			</tr>
+			
+		    </table>
+		    </p>
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--  -->
+<!-- Portfolio Modal 17 -->
+<div class="modal fade" id="portfolioModal17" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <h2>Dheepan</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/dheepan-details.jpg" alt="">
+            <div class="container-fluid">
+            <div class="row">
+            <div class="col-lg-12">
+	      <p class="award">" The film won the prestigious "Palme D'Or" at the Cannes film festival in 2015 "</p>
+            </div>
+            <div class="col-lg-12">
+            <img class="img-responsive img-centered" width="150px" height="150px" src="img/palme-dor.jpg" alt="Cannes Festival">
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Jacques Audiard</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Pascal Caucheteux</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Jacques Audiard, Thomas Bidegain, Noé Debré</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Jacques Audiard</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Antonythasan Jesuthasan</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Nicolas Jaar</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Eponine Momenceau</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Juliette Welfling</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Why Not Productions, France 2 Cinéma , Page 114</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>UGC Distribution</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>21 May 2015 (Cannes), 26 August 2015 (France)</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil | French | English</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt4082068/" target="_blank">Click Here ... </a></td>
+			</tr>
+			
+		    </table>  
+		    </p>
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--  -->
+<!-- Portfolio Modal 16 -->
+<div class="modal fade" id="portfolioModal18" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <h2>Thoongavanam</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/thoongavanam-telugu-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		    <table class="film-details" border="0" >
+			<tr>
+			      <td>Directed by</td>
+			      <td>Rajesh M Selva</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>S. Chandrahasan</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Sugaa</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Kamal Hassan</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Kamal Hassan, Trisha, Prakash Raj, Kishore, Asha Sarath</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Ghibran</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Sanu Varughese</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Shan Mohammed</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Raaj Kamal Films International</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Maxlab Entertainments</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Telugu, Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt5000238/?ref_=fn_al_tt_2" target="_blank">Click Here ... </a></td>
+			</tr>
+			
+		    </table>
+		    </p>
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--  -->
+
+<!-- Portfolio Modal 3 -->
+<div class=" modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Billa II</h2>
+           <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/billa2.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Chakri Toleti</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Sunir Kheterpal, Suresh Balaje, George Pius</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>E. R. Murugan(Dialogue)</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Chakri Toleti, Sarath Mandava, Jaffer Mohammed</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Chakri Toleti, Eric Felberg</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Ajith, Parvathy Omanakuttan, Bruna Abdullah, Vidyut Jamwal, Rohit Khurana, Sudhanshu Pandey</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Yuvan Shankar Raja</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>R. D. Rajasekhar</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Suresh Urs</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Wide Angle Creations	IN Entertainment</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>13 July 2012</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt1891755/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 4 -->
+<div class="modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>180</h2>
+           <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/180-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Jayendra</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Kiran Reddy, Swaroop Reddy,C. Srikanth</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Subha & Jayendra (Tamil), Umarji Anuradha (Telugu)</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Jayendra, Subha</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Jayendra</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Siddharth,Priya Anand,Nithya Menen</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Sharreth</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Balasubramaniem</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Kishore Te</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>SPI Cinemas, Aghal Films</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Ayngaran International (Tamil)</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>25 June 2011</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil,Telugu</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt1855110/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>
+            </p>
+            
+
+            </div>
+            </div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 5 -->
+<div class=" modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Madurai Sambavam</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/maduraisambavam-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Yureka</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Sunir Kheterpal,Suresh Balaje</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Yureka</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Harikumar, Anuya Bhagvath, Karthika, Radha Ravi</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>John Peter</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>M.Sukumar</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>P. Sai Suresh</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Wide Angle Creations, NDTV</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Sri Thenandal Films</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>4 September 2009</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="#" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 6 -->
+<div class=" modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Yavarum Nalam</h2>
+              <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/Yavarum Nalamm.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Vikram Kumar</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Rajesh Sawhney, Suresh Balaje, George Pius</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Vikram Kumar, Neelu Iyappan, Abhinav Singh Kashyap (Hindi Dialogues)</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>R. Madhavan, Neetu Chandra, Sachin Khedekar, Deepak Dobriyal, Murli Sharma, Dhritiman Chatterjee, Sampath Raj, Saranya</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Shankar-Ehsaan-Loy, Tubby Parik</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>P. C. Sreeram</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Sreekar Prasad</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Big Pictures</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>March 6, 2009</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt1430836/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 7 -->
+<div class=" modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true" style="overflow:hidden !important;">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Kireedam</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/kireedam-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>A.L.Vijay</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Suresh Balaje</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>A. L. Vijay, Na. Muthukumar (dialogues)</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>A. L. Vijay</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>A. K. Lohithadas</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Ajith Kumar, Trisha Krishnan, Rajkiran, Vivek</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>G. V. Prakash Kumar</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Tirru, Nirav Shah</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Anthony Gonsalves</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Adlabs Limited</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>20 July 2007</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt0237376/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 8 -->
+<div class=" modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Chup Chup Ke</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/ChupChupKe-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Priyadarshan</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Ronnie Screwvala</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Sirazul Haq</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Rafi Mecartin</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Kareena Kapoor Khan, Shahid Kapoor, Sunil Shetty, Susma Reddy</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Himesh Reshammiya</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Thiru</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Arun Kumar</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>UTV Motion Pictures</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>June 2006</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Hindi</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt0464160/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 9 -->
+<div class="modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Malamaal Weekly</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/malamaal-weekly-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Priyadarshan</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Suresh Balaje</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Priyadarshan</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Priyadarshan</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Paresh Rawal, Om Puri, Ritesh Deshmukh, Reema Sen, Rajpal Yadav</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Uttankk V. Vorra</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Sameer Arya</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>N. Gopalakrishnan, Arun Kumar</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Percept Picture Company, Sahara One</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>10 March 2006</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Hindi</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt0476805/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>
+            </p>
+            
+
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 10 -->
+<div class="modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Phir Mileenga</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/PhirMilenge-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Revathi</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Suresh Balaje</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Atul Sabharwal</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Atul Sabharwal, Revathi</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Shilpa Shetty, Salman Khan, Abhishek Bachchan, Mita Vasisht</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Shankar-Ehsaan-Loy, Bhavatha Raja, Nikhil-Vinay</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>S Ravi Varman</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Ashwin Ramanathan</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Percept Picture Company</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>27 August 2004</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Hindi</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt0422950/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 11-->
+<div class="modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single">             <!-- Project Details Go Here -->
+            <h2>Mitr, My Friend</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/Mitr-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Revathi</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Telephoto Entertainments Limited</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Priya V</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Sudha Kongara</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Shobhana, Nasser Abdullah, Preeti Vissa</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Karthik Raja, Bhavatharini Ilayaraja</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Fowzia Fathima</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Beena Paul</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>February 21, 2002</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>English, Hindi, Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt0292113/" target="_blank">Click Here.. </a></td>
+			</tr>
+
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 12 -->
+<div class="modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single"> 
+            <!-- Project Details Go Here -->
+            <h2>Vanaprasatham</h2>
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/vanaprasatham-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Shaji N. Karun</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Mohanlal, Pierre Assouline</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>-</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Shaji N. Karun, Raghunath Paleri (dialogue)</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Pierre Assouline</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Mohanlal, Suhasini, Mattannur Sankarankutty Marar, Kukku Parameswaran, Venmani Haridas, Kalamandalam Gopi, Venmani Vishnu</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Zakir Hussain</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Santosh Sivan, Renato Berta</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>A. Sreekar Prasad, Joseph Guinvarch</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Euro American Films, Pranavam Arts</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Pranavam Arts (Kerala)</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>25 December 1999</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Malayalam</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt0202055/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Portfolio Modal 13 -->
+<div class=" modal fade" id="portfolioModal13" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single"> 
+            <!-- Project Details Go Here -->
+            <h2>Drushyam</h2>
+            
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/drishyam-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		    <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Sripriya</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Daggubati Suresh Babu, Rajkumar Sethupathi</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Paruchuri Brothers</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Jeethu Joseph</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Jeethu Joseph</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Daggubati Venkatesh, Meena, Nadhiya</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Sharreth</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>S. Gopal Reddy</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Marthand K. Venkatesh</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Suresh Productions, Rajkumar Theatres Pvt Ltd, Wide Angle Creations</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>11 July 2014</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Telugu</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt3810932/?ref_=fn_al_tt_1" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>            </p>
+            
+
+            </div>
+            </div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Portfolio Modal 14 -->
+<div class=" modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal" style="position:relative;z-index: 9999;" >x</a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single"> 
+            <!-- Project Details Go Here -->
+            <h2>Papanasam</h2>
+            
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/papanasam-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+		    <table class="film-details" border="0" >
+			<tr>
+			      <td>Directed by</td>
+			      <td>Jeethu Joseph</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Suresh Balaje, George Pius, Rajkumar Sethupathi, Sripriya</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Jeyamohan(Dialogue)</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td>Jeethu Joseph</td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td>Jeethu Joseph</td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Kamal Haasan, Gauthami</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Ghibran</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Sujith Vaassudev</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Ayoob Khan</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Wide Angle Creations, Raj Kumar Theatres</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>Maxlab Entertainments</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>3 July 2015</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt4429128/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>
+		</p>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+<!-- Portfolio Modal 15 -->
+<div class="modal fade" id="portfolioModal15" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content modal-single-page">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+      	<a  class="close-icon" data-dismiss="modal">x</i></a>
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="modal-body modal-body-single"> 
+            <!-- Project Details Go Here -->
+            <h2>Drushyam</h2>
+            
+            <div class="custom-main">
+            <div class="custom-left modal-left">
+            
+            <img class="img-responsive img-centered" src="img/projects/dheepan-details.jpg" alt="">
+            </div>
+            <div class="custom-right modal-right">
+            	<p align="left" class="project-content">
+            	
+		  <table class="film-details" border="0">
+			<tr>
+			      <td>Directed by</td>
+			      <td>Jacques Audiard</td>
+			</tr>
+			<tr>
+			      <td>Produced by</td>
+			      <td>Pascal Caucheteux</td>
+			</tr>
+			<tr>
+			      <td>Written by</td>
+			      <td>Jacques Audiard, Thomas Bidegain, Noé Debré</td>
+			</tr>
+			<tr>
+			      <td>Screenplay by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Story by</td>
+			      <td></td>
+			</tr>
+			<tr>
+			      <td>Starring</td>
+			      <td>Antonythasan Jesuthasan</td>
+			</tr>
+			<tr>
+			      <td>Music by</td>	
+			      <td>Nicolas Jaar</td>
+			</tr>
+			<tr>
+			      <td>Cinematography</td>
+			      <td>Eponine Momenceau</td>
+			</tr>
+			<tr>
+			      <td>Edited by</td>
+			      <td>Juliette Welfling</td>
+			</tr>
+			<tr>
+			      <td>Production company</td> 
+			      <td>Why Not Productions, France 2 Cinéma , Page 114</td>
+			</tr>
+			<tr>
+			      <td>Distributed by</td>
+			      <td>UGC Distribution</td>
+			</tr>
+			<tr>
+			      <td>Release date</td>
+			      <td>21 May 2015 (Cannes), 26 August 2015 (France)</td>
+			</tr>
+			<tr>
+			      <td>Language</td>
+			      <td>Tamil, French, English</td>
+			</tr>
+			<tr>
+			      <td>More About Movie</td>
+			      <td><a href="http://www.imdb.com/title/tt4082068/" target="_blank">Click Here.. </a></td>
+			</tr>
+			
+		    </table>        </p>
+		    
+            
+
+            </div>
+            </div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  
+</div>
+
+<!-- jQuery --> 
+<script src="js/jquery.js"></script> 
+
+<!-- Bootstrap Core JavaScript --> 
+<script src="js/bootstrap.min.js"></script> 
+
+<!-- Plugin JavaScript --> 
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script> 
+<script src="js/classie.js"></script> 
+<script src="js/cbpAnimatedHeader.js"></script> 
+
+<!-- Contact Form JavaScript --> 
+<script src="js/jqBootstrapValidation.js"></script> 
+<script src="js/contact_me.js"></script> 
+
+<!-- Owl Corosel -->
+<script type="text/javascript" src="js/owl.carousel.js"></script> 
+
+<!-- Custom Theme JavaScript --> 
+<script src="js/five.js"></script>
+
+
+
+
+</body>
+</html>
